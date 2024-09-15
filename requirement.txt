@@ -1,7 +1,12 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
-pinecone-client
-langchain==0.0.225
-flask
-pypdf
+langchain==0.1.9
+langchain_community==0.0.24
+sentence-transformers==2.4.0
+unstructured
+unstructured[pdf]
+qdrant-client
 python-dotenv
+accelerate
+huggingface_hub
+llama-cpp-python
+gradio
+-e .
