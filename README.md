@@ -33,3 +33,5 @@ Run the ingest.py file to fill the vector database with the data. You can add an
 - [X]   Build a website for the chatbot
 - [X]   Improve the UI
 - [ ]   Deploy the model on huggingface spaces
+- [ ]   Implement Hybrid RAG instead of naive RAG
+      
